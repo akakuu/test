@@ -17,11 +17,5 @@ class ViewController: UIViewController {
         print("hello, world")
     }
 
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
-    }
-
-
 }
 
